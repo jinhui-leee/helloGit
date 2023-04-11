@@ -1,7 +1,11 @@
 package ljinh;
 
 public class TestClass {
-    int jinhee() {
+    public int jinhee() {
         return 1;
+    }
+
+    public int abc() {
+        return 0;
     }
 }
